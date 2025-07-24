@@ -1,4 +1,3 @@
-# Correction Bac C 2025 – Mathématiques
 
 ## Contenu
 
