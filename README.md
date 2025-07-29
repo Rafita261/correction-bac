@@ -5,3 +5,4 @@
 2. [Correction Mathématiques S 2025 Exercice 1 (PDF)](./Correction-S-2025-Exo1.pdf)
 3. [Correction Mathématiques S 2025 Exercice 2 (PDF)](./Correction-S-2025-Exo2.pdf)
 4. [Correction Mathématiques D 2025 Exercice 1 (PDF)](./Correction-D-2025-Exo1.pdf)
+5. [Correction Mathématiques D 2025 Exercice 2 (PDF)](./Correction-D-2025-Exo2.pdf)
