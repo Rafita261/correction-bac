@@ -9,5 +9,5 @@
 7. [Correction Mathématiques D 2025 Exercice 2 (PDF)](./Correction-D-2025-Exo2.pdf)
 8. [Correction Mathématiques S 2025 Problème 1 (PDF)](./Correction-S-2025-Pb1.pdf)
 9. [Correction Mathématiques S 2025 Problème 2 (PDF)](./Correction-S-2025-Pb2.pdf)
-10. [Correction Mathématiques S 2025 Problème 2 (PDF)](./Correction-S-2025-Pb2.pdf)
+10. [Correction Mathématiques D 2025 Problème (PDF)](./Correction-D-2025-Pb.pdf)
 
